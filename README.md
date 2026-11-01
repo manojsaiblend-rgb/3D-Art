@@ -65,7 +65,7 @@ The same TIE Fighter model showcased from different angles.
 
 ![Ciri Sword 3](cirisword3.png)
 
-![Ciri Sword 4](cirisword4.png)
+
 
 ![Ciri Sword 5](cirisword5.png)
 
