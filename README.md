@@ -52,3 +52,21 @@ The same TIE Fighter model showcased from different angles.
 
 ![tief.png](tief.png)
 ![tiefro.png](tiefro.png)
+
+## Ciri's Sword – The Witcher 3
+
+3D sword model inspired by Ciri's sword(Zirearl) from The Witcher 3, created using Blender.
+
+### Renders
+
+![Ciri Sword 1](cirisword1.png)
+
+![Ciri Sword 2](cirisword2.png)
+
+![Ciri Sword 3](cirisword3.png)
+
+![Ciri Sword 4](cirisword4.png)
+
+![Ciri Sword 5](cirisword5.png)
+
+![Ciri Sword 6](cirisword6.png)
