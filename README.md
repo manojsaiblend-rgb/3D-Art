@@ -69,4 +69,6 @@ The same TIE Fighter model showcased from different angles.
 
 ![Ciri Sword 6](cirisword6.png)
 
-<video src="./runesofshura.mp4" controls width="600"></video>
+## Runes of Shura 
+
+https://github.com/user-attachments/assets/fed3e5ba-6e54-4556-b469-1abce6cf7ca7
