@@ -72,3 +72,19 @@ The same TIE Fighter model showcased from different angles.
 ## Runes of Shura 
 
 https://github.com/user-attachments/assets/fed3e5ba-6e54-4556-b469-1abce6cf7ca7
+
+## Runes of Shura – Custom 3D Project
+
+An original 3D project designed and created by me using Blender.
+
+### Renders
+
+![Runes of Shura](runesofasura.png)
+
+![Runes of Shura 1](runesofasura1.png)
+
+![Runes of Shura 2](runesofasura2.png)
+
+![Runes of Shura 3](runesofasura3.png)
+
+![Runes of Shura 4](runesofasura4.png)
