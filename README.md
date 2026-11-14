@@ -65,6 +65,8 @@ The same TIE Fighter model showcased from different angles.
 
 ![Ciri Sword 3](cirisword3.png)
 
+<video src="./runesofshura.mp4" controls width="600"></video>
+
 
 
 ![Ciri Sword 5](cirisword5.png)
